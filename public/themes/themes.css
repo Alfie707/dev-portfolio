@@ -54,6 +54,17 @@
       --color-button-accent-hover: 0, 185, 255;
       --color-button-muted: 249, 239, 6;
     }
+    [data-theme="teal"] {
+      --color-text-base: 40, 40, 40;
+      --color-text-muted: 125, 125, 125;
+      --color-text-inverted: 240, 240, 240;
+      --color-fill: 215, 215, 215;
+      --muted: 180, 180, 180;
+      --color: 78, 160, 170; /* Main Higshlights */
+      --color-button-accent: 78, 175, 180; /* Teal */
+      --color-button-accent-hover: 78, 134, 177; /* Light blue */
+      --color-button-muted: 80, 110, 110;
+    }  
   }
   .dark {
     --color-text-base: 255, 255, 255;
@@ -109,4 +120,15 @@
       --color-button-accent-hover: 0, 185, 255;
       --color-button-muted: 25, 81, 86;
     }
+    [data-theme="teal"] {
+      --color-text-base: 235, 235, 235;
+      --color-text-muted: 125, 125, 125;
+      --color-text-inverted: 230, 230, 230;
+      --color-fill: 25, 25, 25;
+      --muted: 50, 50, 50;
+      --color: 78, 210, 220; /* Main Highlights */
+      --color-button-accent: 78, 160, 177; /* Teal */
+      --color-button-accent-hover: 78, 220, 240; /* Light blue */
+      --color-button-muted: 25, 81, 86;
+    }     
 }

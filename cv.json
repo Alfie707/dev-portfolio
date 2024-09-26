@@ -1,25 +1,25 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
+    "name": "Alfredo Silva",
+    "label": "Tech Artist/ Developer",
+    "image": "/avatar_green.jpg",
+    "email": "sfredo@hotmail.co.uk",
     "phone": "+1 555-555-5555",
     "url": "https://johndoe.dev",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "theme": "teal",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "London",
+      "countryCode": "UK",
+      "region": "UK"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "Alfredo-Silca",
+        "url": "https://www.linkedin.com/in/alfredo-silva-47249a23/"
       },
       {
         "network": "X",
@@ -36,46 +36,49 @@
   "work": [
     {
       "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "position": "Technical Artist",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location": "London UK",
+      "url": "https://www.zeg.ai",
+      "startDate": "2019-02-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Creating 3D Artwork. Testing Collaborating with the team to implement new features and provide assets.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Designed UX, improved PBR pipeline for assets"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
+        "Collaborated with senior developers to design and implement web application using Python, Javascript and Three.js",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
         "Participated in code reviews and contributed to improving coding standards within the team."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Helping develop a Digital Studio Web App. Implementing correct PBR (Phisically Based Rendering)in app. Collaborating with the team to implement features and providing assets."
       ],
       "skills": [
-        "React",
+        "Python",
+        "Threejs",
         "Tailwind",
-        "GitHub"
+        "GitHub",
+        "3D Software"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
+      "name": "Various",
+      "position": "Freelance 3D Designer/ Developer",
+      "location_type": "Remote",
+      "location": "London, Europe",
       "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "startDate": "2017-09-01",
+      "endDate": "Ongoing",
+      "summary": "Designing UX, implementing websites and providing digital produts for a range of enterprices",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "I collaborated with clients to bring their ideas to life through creative and functional digital solutions"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "I ensured that each project met client expectations while providing an engaging user experience.",
+        "Worked closely with other developers to integrate user-facing making sure the requirements were met",
+        "Created 3D models, animations, and visual effects for a variety of projects, including websites, mobile apps, and immersive virtual environments.",
+        "I also handled the technical implementation, ensuring the seamless integration of 3D elements into websites and applications"
       ],
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
@@ -83,24 +86,25 @@
       "skills": [
         "Python",
         "Django",
-        "SQL",
+        "MySQL",
         "Git"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
+      "name": "Travis Perkins",
+      "position": "Technical Artist",
+      "location_type": "On site",
+      "location": "Watford, UK",
       "startDate": "2022-06-01",
       "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "summary": "Asisted in the production of marketing products, maintining and updating of the Landing page.",
       "highlights": [
-        "Completed several client projects successfully"
+        "In addition to product visualisation, marketing design I also handled the technical implementation of a Web VR app, ensuring imersive experience for visualising product line up"
       ],
       "skills": [
         "HTML",
-        "CSS"
+        "CSS",
+        "Threejs"
       ]
     }
   ],
@@ -119,69 +123,99 @@
   ],
   "education": [
     {
-      "institution": "State University",
+      "institution": "IBM AI Developer",
       "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "area": "AI Software Developer",
+      "studyType": "Online",
+      "startDate": "2024-02-01",
+      "endDate": "2024-10-01",
+      "score": "2.1",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
+        "Sofware Engineering",
+        "Data Science using Python and Pandas",
+        "Developing Apps with Python and Flusk",
+        "Maths for 3D Graphics",
+        "Animation"
       ]
     },
     {
-      "institution": "Tech Institute",
+      "institution": "Bournemouth University",
+      "url": "https://stateuniversity.edu",
+      "area": "Computer Animation",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-05-01",
+      "score": "2.1",
+      "courses": [
+        "Introduction to Computer Science",
+        "Data Structures",
+        "Programming",
+        "Maths for 3D Graphics",
+        "Animation"
+      ]
+    },
+    {
+      "institution": "Kingsway College",
       "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
+      "area": "Multimedia",
+      "studyType": "BTEC Diploma",
       "startDate": "2020-09-01",
       "endDate": "2022-12-01",
       "score": "3.9",
       "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
+        "Developing Websited with HTML, CSS and Javascript",
+        "Creating and Editing Video",
+        "Creating Digital Artwork"
       ]
     },
     {
-      "institution": "City College",
+      "institution": "Lambeth College",
       "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
+      "area": "Music Technology",
+      "studyType": "Certificate",
       "startDate": "2017-01-01",
       "endDate": "2019-12-01",
       "score": "3.7",
       "courses": [
-        "IT101 - Networking Fundamentals",
+        "Music Production",
         "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
+      "name": "Data Science",
+      "date": "2024-02-01",
+      "issuer": "META",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Cybersecurity",
+      "date": "2024-02-01",
+      "issuer": "Google",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Python Automation",
       "date": "2023-05-01",
-      "issuer": "Online University",
+      "issuer": "Google",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Python Developer",
+      "date": "2023-08-01",
+      "issuer": "Udemy",
       "url": "https://onlineuniversity.com/certificates/fullstack"
     }
+    
   ],
   "skills": [
     {
       "name": "Figma",
-      "level": "Expert",
+      "level": "Intermediate",
       "keywords": [
         "Design",
         "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
       ]
     },
     {
@@ -222,23 +256,32 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": [
         "Web Development",
         "Backend",
         "JavaScript",
         "Server"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Threejs",
+      "level": "Intermediate",
+      "keywords": [
+        "General work",
+        "Web Applications",
+        "3D Graphics" 
       ]
     },
     {
@@ -249,6 +292,16 @@
         "SQL",
         "Data Storage",
         "Backend"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "General work",
+        "Automation",
+        "Backend"
+        
       ]
     },
     {
@@ -269,37 +322,25 @@
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
+    
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Advanced"
     },
     {
       "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
       "fluency": "Intermediate"
+    },
+    {
+      "language":"Japanese",
+      "fluency":"Intermediate"
     }
   ],
   "interests": [
@@ -307,6 +348,8 @@
       "name": "Technology",
       "keywords": [
         "AI",
+        "AR",
+        "VR",
         "Blockchain"
       ]
     }
@@ -326,29 +369,30 @@
         "Built with React and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "#",
+      "github": "#"
     },
     {
-      "name": "Weather App",
+      "name": "Web Studio",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "A web application that allows you to visualize in 3D to take renders",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
+        "Built with JavaScript and Three.js",
+        "PRB Rendering on Web",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "#"
     },
     {
-      "name": "Task Manager",
+      "name": "Pomodoro/Task Manager",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "A simple pomodoro clone to keep track of daily tasks",
       "highlights": [
-        "Built with Node.js and MongoDB",
+        "Built with Python and Qt",
         "User authentication and CRUD operations"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "#",
+      "github": "#"
     },
     {
       "name": "E-commerce Site",
@@ -358,7 +402,7 @@
         "Product management and shopping cart functionality",
         "Secure payment integration"
       ],
-      "url": "https://ecommerce.com"
+      "url": "#"
     }
   ]
 }
