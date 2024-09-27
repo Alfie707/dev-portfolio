@@ -109,7 +109,7 @@ type Language =
   | "Spanish"
   | "English"
   | "German"
-  | "France"
+  | "French"
   | "Italian"
   | "Korean"
   | "Portuguese"
